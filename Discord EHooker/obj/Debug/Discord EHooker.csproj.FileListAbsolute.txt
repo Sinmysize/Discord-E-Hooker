@@ -1,0 +1,64 @@
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\obj\Debug\Discord EHooker.csproj.AssemblyReference.cache
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\obj\Debug\Discord EHooker.csproj.CoreCompileInputs.cache
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\Discord EHooker.exe.config
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\Discord EHooker.exe
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\Discord EHooker.pdb
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\Colorful.Console.dll
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\obj\Debug\Discord EHooker.csproj.CopyComplete
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\obj\Debug\Discord EHooker.exe
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\obj\Debug\Discord EHooker.pdb
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\DiscordRPC.dll
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\DiscordRPC.pdb
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\DiscordRPC.xml
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\robba\source\repos\Discord EHooker\Discord EHooker\bin\Debug\Discord EHooker.exe.config
+C:\Users\robba\source\repos\Discord EHooker\Discord EHooker\bin\Debug\Discord EHooker.exe
+C:\Users\robba\source\repos\Discord EHooker\Discord EHooker\bin\Debug\Discord EHooker.pdb
+C:\Users\robba\source\repos\Discord EHooker\Discord EHooker\bin\Debug\Colorful.Console.dll
+C:\Users\robba\source\repos\Discord EHooker\Discord EHooker\bin\Debug\DiscordRPC.dll
+C:\Users\robba\source\repos\Discord EHooker\Discord EHooker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\robba\source\repos\Discord EHooker\Discord EHooker\bin\Debug\DiscordRPC.pdb
+C:\Users\robba\source\repos\Discord EHooker\Discord EHooker\bin\Debug\DiscordRPC.xml
+C:\Users\robba\source\repos\Discord EHooker\Discord EHooker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\robba\source\repos\Discord EHooker\Discord EHooker\obj\Debug\Discord EHooker.csproj.AssemblyReference.cache
+C:\Users\robba\source\repos\Discord EHooker\Discord EHooker\obj\Debug\Discord EHooker.csproj.CoreCompileInputs.cache
+C:\Users\robba\source\repos\Discord EHooker\Discord EHooker\obj\Debug\Discord EHooker.csproj.CopyComplete
+C:\Users\robba\source\repos\Discord EHooker\Discord EHooker\obj\Debug\Discord EHooker.exe
+C:\Users\robba\source\repos\Discord EHooker\Discord EHooker\obj\Debug\Discord EHooker.pdb
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\Discord.Net.Commands.dll
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\Discord.Net.Core.dll
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\Discord.Net.Interactions.dll
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\Discord.Net.Rest.dll
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\Discord.Net.Webhook.dll
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\Discord.Net.WebSocket.dll
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\System.Buffers.dll
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\System.Interactive.Async.dll
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\System.Linq.Async.dll
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\System.Memory.dll
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\System.Reactive.dll
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\System.ValueTuple.dll
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\Discord.Net.Commands.xml
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\Discord.Net.Core.xml
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\Discord.Net.Interactions.xml
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\Discord.Net.Rest.xml
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\Discord.Net.Webhook.xml
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\System.Buffers.xml
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\System.Interactive.Async.xml
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\System.Linq.Async.xml
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\System.Memory.xml
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\System.Reactive.xml
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Sinmysize\OneDrive\Desktop\Discord EHooker\Discord EHooker\bin\Debug\System.ValueTuple.xml
